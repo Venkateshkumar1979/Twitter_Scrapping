@@ -11,8 +11,8 @@ A web app built on streamlit using python and snscrape library to scrap data fro
 - MongoDB Atlas
 
 # Description
-from the command prompt --> streamlit run <python_filename.py>
-streamlit gui will open in active browser
+from the command prompt --> streamlit run twitter1.py
+streamlit GUI will open in active browser
 
 1. Enter any keyword or hashtag to search in twitter
 2. Enter from which date the data has to be scraped
